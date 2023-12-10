@@ -50,3 +50,11 @@ https://i.namu.wiki/i/OqsdKhO__CiPCMQ-9ur2bS7Vipp6uyQRjpGycOUVX7-hTqHcIam4MdsgeW
 - 모델 fit
 - 모델 평가하기
 - 모델 다운로드
+
+<br>
+<br>
+
+---
+
+## Tools
+![image](https://github.com/ChaesongYun/YT_Title_Predictor/assets/139418987/a44db2be-8131-49e3-8397-88ca886bc691)
